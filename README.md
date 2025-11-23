@@ -1,4 +1,4 @@
-![logo](https://github.com/AlirezaMahjoob/AlirezaMahjoob/blob/main/Professional%20GitHub%20.png)
+![logo](https://github.com/AlirezaMahjoob/AlirezaMahjoob/blob/main/Full-width%20Git.png)
 <h1 align="center">Hi 👋, I'm Alireza Mahjoob</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="center"  src="https://maruf001-mt.github.io/Premium-Delivery/web.gif" alt="This is a gif"/>
